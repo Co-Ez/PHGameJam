@@ -1,3 +1,15 @@
+if dash == true 
+{
+	player_speed += .5;
+}
+else
+{
+	if player_speed != 5
+	{
+		player_speed -= .5;
+	}
+}
+
 KeyRight = keyboard_check(ord("D"));
 KeyLeft = keyboard_check(ord("A"));
 KeyUp = keyboard_check(ord("W"));

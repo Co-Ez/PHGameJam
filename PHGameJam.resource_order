@@ -18,5 +18,6 @@
   ],
   "ResourceOrderSettings": [
     {"name":"sTestRoom","order":1,"path":"sprites/sTestRoom/sTestRoom.yy",},
+    {"name":"oCamera","order":1,"path":"objects/oCamera/oCamera.yy",},
   ],
 }

@@ -17,6 +17,8 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"sWall","order":2,"path":"sprites/sWall/sWall.yy",},
+    {"name":"oWall","order":2,"path":"objects/oWall/oWall.yy",},
     {"name":"sTestRoom","order":1,"path":"sprites/sTestRoom/sTestRoom.yy",},
     {"name":"oCamera","order":1,"path":"objects/oCamera/oCamera.yy",},
   ],

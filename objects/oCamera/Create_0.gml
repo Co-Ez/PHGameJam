@@ -1,3 +1,5 @@
+window_set_fullscreen(true);
+
 cam = view_camera[0];
 
 target = oPlayer;

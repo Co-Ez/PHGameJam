@@ -22,7 +22,12 @@
     {"name":"sTestRoom","order":1,"path":"sprites/sTestRoom/sTestRoom.yy",},
     {"name":"Run2","order":2,"path":"rooms/Run2/Run2.yy",},
     {"name":"oCamera","order":1,"path":"objects/oCamera/oCamera.yy",},
+    {"name":"Object4","order":3,"path":"objects/Object4/Object4.yy",},
+    {"name":"sRun1","order":3,"path":"sprites/sRun1/sRun1.yy",},
     {"name":"Run1","order":1,"path":"rooms/Run1/Run1.yy",},
+    {"name":"sInteract","order":4,"path":"sprites/sInteract/sInteract.yy",},
     {"name":"Run3","order":3,"path":"rooms/Run3/Run3.yy",},
+    {"name":"sRun1_2","order":5,"path":"sprites/sRun1_2/sRun1_2.yy",},
+    {"name":"oInteract","order":4,"path":"objects/oInteract/oInteract.yy",},
   ],
 }

@@ -21,11 +21,6 @@ var vmove = (KeyDown - KeyUp);
 hsp = hmove * player_speed;
 vsp = vmove * player_speed;
 
-
-x += hsp;
-y += vsp;
-
-/*
 if place_meeting(x + hsp, y, oWall)
 {
 	while !place_meeting(x + sign(hsp), y, oWall)
@@ -47,4 +42,3 @@ if place_meeting(x, y + vsp, oWall)
 }
 
 y += vsp;
-/*

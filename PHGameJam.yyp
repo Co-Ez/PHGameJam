@@ -38,12 +38,18 @@
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"sTestRoom","path":"sprites/sTestRoom/sTestRoom.yy",},},
+    {"id":{"name":"Run2","path":"rooms/Run2/Run2.yy",},},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
+    {"id":{"name":"Run1","path":"rooms/Run1/Run1.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
+    {"id":{"name":"Run3","path":"rooms/Run3/Run3.yy",},},
     {"id":{"name":"TestRoom","path":"rooms/TestRoom/TestRoom.yy",},},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"TestRoom","path":"rooms/TestRoom/TestRoom.yy",},},
+    {"roomId":{"name":"Run1","path":"rooms/Run1/Run1.yy",},},
+    {"roomId":{"name":"Run2","path":"rooms/Run2/Run2.yy",},},
+    {"roomId":{"name":"Run3","path":"rooms/Run3/Run3.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
